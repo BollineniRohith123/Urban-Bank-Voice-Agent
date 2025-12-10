@@ -1,0 +1,7 @@
+{
+  "name": "G-Smart Banker",
+  "description": "AI-powered banking assistant for GUCB employees featuring real-time voice roleplay training and knowledge retrieval.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
